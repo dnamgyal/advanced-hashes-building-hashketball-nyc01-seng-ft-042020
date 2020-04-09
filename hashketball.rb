@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   new_hash = {
-    home: {team_name: "Brooklyn Nets", colors: ["Black", "White"], 
+    home: {team_name: "Brooklyn Nets", colors: ["Black", "White"],
       players: [
         {
           player_name: "",
@@ -10,7 +10,7 @@ def game_hash
           points: "",
           rebounds: "",
           assists: "",
-          steals: "", 
+          steals: "",
           blocks: "",
           slam_dunks: ""
         },
